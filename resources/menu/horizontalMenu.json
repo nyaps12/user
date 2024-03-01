@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons ti ti-layout-grid",
+      "slug": "dashboard"
+    },
+    {
+      "url": "map",
+      "name": "Map",
+      "icon": "menu-icon tf-icons ti ti-map",
+      "slug": "map"
+    },
+    {
+      "url": "locations",
+      "icon": "menu-icon tf-icons ti ti-map-pin-filled",
+      "name": "Locations",
+      "slug": "locations"
+    },
+    {
+      "url": "report",
+      "name": "Report",
+      "icon": "menu-icon tf-icons ti ti-report",
+      "slug": "report"
+    }
+  ]
+}
